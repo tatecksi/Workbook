@@ -68,8 +68,7 @@
               "durationMs": 86400000
             },
             "queryType": 1,
-            "resourceType": "microsoft.resourcegraph/resources",
-            "value": "/subscriptions/04d18500-ab7a-40b8-b0cc-7ad28b85c9c5/resourcegroups/766_sentinel_rg/providers/microsoft.operationalinsights/workspaces/766sentinel"
+            "resourceType": "microsoft.resourcegraph/resources"
           },
           {
             "id": "ab972580-f202-4006-ac44-eef045622963",
